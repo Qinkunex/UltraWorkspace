@@ -117,6 +117,7 @@ Visit the **[GitHub Releases](https://github.com/Qinkunex/UltraWorkspace/release
 
 ### 📟 Hardware Firmware (OTA)
 * **`VivoCube_V2_20260728_ota.bin`**: Binary firmware for VivoCube OTA updates via UltraWorkspace.
+  * 📖 **[View Step-by-Step Module OTA Flashing Guide](docs/OTA-GUIDE.md)**
 
 ### 📱 Android Companion Apps
 * **`LineOS_v1.0.8.apk`**: LineOS system application for CoreBAR.
