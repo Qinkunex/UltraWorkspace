@@ -5,7 +5,7 @@
 ---
 
 ### Step 1: Download the OTA Firmware File
-Visit the [Official Sanytron Support Page](https://hub.sanytron.com) or download the latest OTA firmware file (`.bin`) directly from GitHub Releases:
+Visit the [Official Sanytron Support Page](https://hub.sanytron.com/support/ultrabarx) or download the latest OTA firmware file (`.bin`) directly from GitHub Releases:
 * 📥 **[Download VivoCube Firmware (`VivoCube_V2_20260728_ota.bin`)](https://github.com/Qinkunex/UltraWorkspace/releases/download/v1.0.0/VivoCube_V2_20260728_ota.bin)**
 
 ---
