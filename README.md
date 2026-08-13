@@ -138,6 +138,15 @@ Visit the **[GitHub Releases](https://github.com/Qinkunex/UltraWorkspace/release
 
 ---
 
+## 📖 Documentation & Guides
+
+Visit our **[Documentation Hub](docs/INDEX.md)** for detailed guides:
+
+* 📟 **[Module OTA Flashing Guide](docs/OTA-GUIDE.md)**
+* 🧩 **[QuantumLink™ Hardware Modules Guide](docs/HARDWARE-MODULES.md)**
+* 🏡 **[Home Assistant & Sonos Integration Guide](docs/ECOSYSTEM-INTEGRATION.md)**
+* 🛠️ **[Troubleshooting & FAQ](docs/TROUBLESHOOTING.md)**
+
 ## ❓ Frequently Asked Questions (FAQ)
 
 <details>
